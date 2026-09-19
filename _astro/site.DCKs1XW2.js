@@ -1,0 +1,1 @@
+var e=`/clicktap-web`,t=[`en`,`zh`],n=`sunorr007`;`${n}`,`${n}`;export{t as n,e as t};
