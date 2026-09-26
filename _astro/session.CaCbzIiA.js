@@ -1,0 +1,1 @@
+import{t as e}from"./react.DJY1zw8Z.js";import{t}from"./backend.Bcnr2bQT.js";var n=e();function r(){let[e,r]=(0,n.useState)(null),[i,a]=(0,n.useState)(!0);return(0,n.useEffect)(()=>{let e=t(),n=!1;e.getSession().then(e=>{n||(r(e),a(!1))}).catch(()=>{n||a(!1)});let i=e.onAuthChange(e=>{n||(r(e),a(!1))});return()=>{n=!0,i()}},[]),{session:e,loading:i}}export{r as t};
