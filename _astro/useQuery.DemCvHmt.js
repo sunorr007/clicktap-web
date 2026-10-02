@@ -1,0 +1,1 @@
+import{t as e}from"./react.DJY1zw8Z.js";var t=e();function n(e){let[n,r]=(0,t.useState)(null);return(0,t.useEffect)(()=>{let t=new URLSearchParams(window.location.search);r(t.get(e)??``)},[e]),n}export{n as t};

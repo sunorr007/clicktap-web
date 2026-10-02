@@ -1,0 +1,1 @@
+var e=[`en`,`zh`],t=`sunorr007`;`${t}`,`${t}`;export{e as n,t};

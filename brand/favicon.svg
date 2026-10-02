@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="clicktap">
+  <!--
+    Simplified stand-in for the app's adaptive launcher icon: the same light sky
+    tile (#9DD5F4, measured from the icon layers) with a white tap-target glyph.
+    Drawn as SVG so it stays crisp at 16px without shipping a second raster.
+  -->
+  <rect width="64" height="64" rx="14" fill="#9DD5F4" />
+  <circle cx="32" cy="32" r="13" fill="none" stroke="#ffffff" stroke-width="5" />
+  <circle cx="32" cy="32" r="4.5" fill="#ffffff" />
+</svg>
