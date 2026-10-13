@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Query-parameter shells (a play, an author, moderation) and the OAuth
+# callback are noindex and excluded from the sitemap; see astro.config.mjs.
+
+Sitemap: https://clicktap.fenghongtech.cn/sitemap-index.xml
